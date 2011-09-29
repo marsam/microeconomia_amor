@@ -1,0 +1,2 @@
+-e hg+https://bitbucket.org/birkenfeld/sphinx#egg=sphinx
+
