@@ -13,6 +13,8 @@ Libro de `David de Ugarte`_.
 .. toctree::
    :maxdepth: 2
 
+   introduccion.rst
+
 Indices and tables
 ==================
 
