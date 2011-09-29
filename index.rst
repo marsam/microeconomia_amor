@@ -3,10 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Microeconomía del Amor's documentation!
-==================================================
+Microeconomía del Amor
+======================
 
-Contents:
+Libro de `David de Ugarte`_.
+
+.. _David de Ugarte: http://deugarte.com/
 
 .. toctree::
    :maxdepth: 2
