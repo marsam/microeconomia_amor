@@ -41,6 +41,7 @@ toda la teoría neoclásica del consumo.
        Political Economy 74 (April): 132-57.
 
 .. figure:: images/lancaster.jpg
+   :align: center
 
 Su idea de fondo era que los bienes no eran deseados en si
 mismos, sino en la medida en que eran poseedores de una

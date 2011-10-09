@@ -34,6 +34,7 @@ el comprador sólo puede saberlo "a toro pasado".
 
 
 .. figure:: images/george_akerlof.jpg
+   :align: center
 
    George Arthur Akerlof [#source]_
 
