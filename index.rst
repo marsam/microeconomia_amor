@@ -17,6 +17,7 @@ Libro de `David de Ugarte`_.
    I.rst
    II.rst
    III.rst
+   IV.rst
 
 Indices and tables
 ==================
