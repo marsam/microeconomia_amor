@@ -73,13 +73,15 @@ conocemos como curvas de indiferencia.
 
 .. note::
 
+    .. image:: images/curva_indi.png
+       :align: center
+
     Nuestro individuo sería indiferente entre las combinaciones 1 y 2 y en
     general entre todas las que forman una curva de indiferencia.
 
     Naturalmente preferirá las combinaciones que están en las curvas más
     alejadas del origen puesto que le ofrecen más de ambas características.
 
-.. TODO: Grafica de curvas de indiferencia
 
 Nuestro individuo sabe además por otras ocasiones (es un hombre de mundo) que
 si dedica todo el tiempo que le queda y sus encantos puede optar como máximo a
@@ -91,6 +93,9 @@ su alcance
 
 .. note:: 
 
+    .. image:: images/curva_indi2.png
+       :align: center
+
     El ideal accesible de nuestro individuo sería por tanto una chica que
     tuviera una combinación :math:`A`, pues es la combinación accesible perteneciente a
     la curva de indiferencia más alta.
@@ -98,7 +103,6 @@ su alcance
     Una chica con atributos como los correspondientes a este punto sería su
     *pareja ideal*.
 
-.. TODO: Grafica de curvas de indiferencia
 
 Como vemos en el gráfico, puede dedicar sus esfuerzos y aún ganar la atención de
 chicas más guapas (las que quedan en el segmento :math:`b_m A`) o más cultas (las que quedan
@@ -128,13 +132,15 @@ siguiente modo:
 
 .. note:: 
 
+    .. image:: images/curva_indi3.png
+       :align: center
+
     Representamos la combinación estimada de cada una de las chicas y trazamos
     el segmento que las une.
 
     Esta sería la verdadera frontera eficiente (donde estaría más cerca de
     conseguir una combinación óptima para él de ambas cualidades)
 
-.. TODO: hacer gráfica
 
 Una vez más el punto de tangencia con la curva de indiferencia más alejada del origen
 marcaría el máximo nivel de satisfacción que el individuo podría alcanzar y por tanto la
@@ -150,6 +156,9 @@ proporción de esfuerzo dedicada a cada chica vendría dada por las proporciones
 que el punto de tangencia divide al segmento grueso discontinuo (la frontera eficiente).
 
 .. note::
+
+    .. image:: images/curva_indi4.png
+       :align: center
 
     Vemos que desea obtener mucha más atención de la chica dos que de la uno,
     aunque tampoco le olvida completamente.
@@ -173,12 +182,14 @@ hablábamos antes? Pues sencillamente que dedicaría todo su tiempo y esfuerzos 
 
 .. note::
 
+    .. image:: images/curva_indi5.png
+       :align: center
+
     El vector correspondiente a la chica ideal une el origen con el punto que
     antes llamamos A. Se daría una solución de esquina (llamada así por quedar
     en la esquina de la frontera eficiente).  Nuestro héroe obnubilado no
     tendría ojos para nadie más...
 
-.. TODO:
 
 Ahora volvamos a nuestra situación de partida (con dos chicas interesantes pero ninguna
 de las dos el ideal de nuestro protagonista). Cuando estamos a punto de encontrar el
@@ -186,6 +197,10 @@ reparto ideal del tiempo... aparece una tercera chica amiga de las dos anteriore
 al grupo... ¿Qué hacer? En primer lugar evaluar.
 
 .. note::
+
+    .. image:: images/curva_indi6.png
+       :align: center
+       :width: 600px
 
     Este dónde esté la valoración de cualidades de la tercera chica el
     resultado será el mismo: sólo tendrá sentido prestar atención a dos de
