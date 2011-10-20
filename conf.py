@@ -199,6 +199,15 @@ latex_documents = [
 # the title page.
 #latex_logo = None
 
+latex_elements = {
+    'fontpkg': r'\usepackage{mathpazo}',
+    'papersize': 'a4paper',
+    'pointsize': '12pt',
+    'preamble': r'\usepackage{flaskstyle}'
+}
+
+latex_additional_files = ['flaskstyle.sty', 'logo.pdf']
+
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
 #latex_use_parts = False
