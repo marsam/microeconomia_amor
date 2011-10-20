@@ -42,6 +42,9 @@ toda la teoría neoclásica del consumo.
 
 .. figure:: images/lancaster.jpg
    :align: center
+   :width: 225 pt
+
+   Kelvin John Lancaster / Public Domain
 
 Su idea de fondo era que los bienes no eran deseados en si
 mismos, sino en la medida en que eran poseedores de una
