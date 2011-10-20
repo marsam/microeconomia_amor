@@ -102,7 +102,7 @@ html_theme = 'flask'
 # documentation.
 html_theme_options = {
         'index_logo': 'logo.png',
-        'index_logo_height': '400px',
+        'index_logo_height': '500px',
         }
 
 
