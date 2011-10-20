@@ -37,9 +37,11 @@ pasado".
 .. figure:: images/george_akerlof.jpg
    :align: center
 
-   George Arthur Akerlof [#source]_
+   `George Arthur Akerlof`_ by ticoneva_ / `BY NC`_
 
-.. [#source] http://www.flickr.com/photos/ticoneva/444805175/ por `ticoneva <http://www.flickr.com/photos/ticoneva/>`_
+.. _George Arthur Akerlof: http://www.flickr.com/photos/ticoneva/444805175/
+.. _ticoneva: http://www.flickr.com/photos/ticoneva/
+.. _BY NC: http://creativecommons.org/licenses/by-nc/2.0/deed.es
 
 Los resultados son sorprendentes. Imaginemos que podemos establecer un índice
 para el grado de compromiso, algo equivalente a un precio, que señale cuanto
