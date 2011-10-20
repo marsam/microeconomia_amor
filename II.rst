@@ -36,6 +36,7 @@ pasado".
 
 .. figure:: images/george_akerlof.jpg
    :align: center
+   :width: 225 pt
 
    `George Arthur Akerlof`_ by ticoneva_ / `BY NC`_
 
