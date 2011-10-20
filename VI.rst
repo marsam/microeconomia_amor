@@ -30,7 +30,11 @@ tener relaciones íntimas con otras personas ajenas a la pareja, o invitar
 constantemente a la propia madre a casa, no lo es tanto en otras situaciones
 en las que el equilibrio de Nash nos abre nuevas perspectivas.
 
-.. TODO: Agregar foto: Rusell
+.. figure:: images/brussell.jpg
+   :align: center
+   :width: 300px
+
+   Bertrand Russell / Public Domain
 
 Ejemplo típico: las discusiones. ¿Qué actitud tomar?. Si yo me mantengo en mis
 trece y el otro "recula" claramente obtengo una cierta satisfacción ("llevar
