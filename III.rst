@@ -21,7 +21,15 @@ ya que con información asimétrica tendemos a contratar justamente con quien me
 nos interesa. Para evitarlo muchas aseguradoras ofrecen contratos escalados, muchos de
 los cuales sólo permiten acceder al total de prestaciones pasado un cierto tiempo.
 
-.. TODO: Agregar foto: Stiglitz
+.. figure:: images/stiglitz.jpg
+   :width: 450px
+   :align: center
+
+   `Joseph Stiglitz`_ by `apesphere`_ / `BY SA`_
+
+.. _Joseph Stiglitz: http://www.flickr.com/photos/21475149@N05/3182420426/
+.. _apesphere: http://www.flickr.com/photos/21475149@N05/
+.. _BY SA: http://creativecommons.org/licenses/by-sa/2.0/
 
 Igualmente el otro lado del problema podría darse entre trabajadores del mundo de la
 informática y empresas de desarrollo. En este mundo existe una gran cantidad de
