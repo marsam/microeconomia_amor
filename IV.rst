@@ -8,20 +8,17 @@ volvemos a nuestra fiesta originaria bien podría ser que tras la
 panorámica sobre la sala, nuestro protagonista se hubiera fijado en
 una chica y se planteara si presentarse el mismo o no.
 
-La mayor parte de nosotros sufre al acercarse a desconocidos, más
-aún si los ve como víctimas potenciales de su cortejo. Tenemos
-miedo al rechazo y de algún modo nos planteamos situaciones así
-como una lotería en la que premio bien pudiera ser obtener la
-atención de la otra persona y en la que el “castigo” más o menos
-probable sería recibir un desaire. Esta claro pues que en este juego,
-la variable en la que se paga (o cobra) a los jugadores no es otra que
-la autoestima. Y que el tipo de elección al que se somete nuestro
-héroe es la que los economistas conocemos como elección bajo
-condiciones de incertidumbre,
-modelizada por John Von
-Neunann y Oskar Morgensten (fotografías de la derecha) en el
-famoso (y difícil) libro5 en el que enunciaron por primera vez la
-Teoría de Juegos [#juegos]_.
+La mayor parte de nosotros sufre al acercarse a desconocidos, más aún si los ve
+como víctimas potenciales de su cortejo. Tenemos miedo al rechazo y de algún
+modo nos planteamos situaciones así como una lotería en la que premio bien
+pudiera ser obtener la atención de la otra persona y en la que el “castigo” más
+o menos probable sería recibir un desaire. Esta claro pues que en este juego,
+la variable en la que se paga (o cobra) a los jugadores no es otra que la
+autoestima. Y que el tipo de elección al que se somete nuestro héroe es la que
+los economistas conocemos como elección bajo condiciones de incertidumbre,
+modelizada por John von Neumann y Oskar Morgenstern (fotografías de la derecha)
+en el famoso (y difícil) libro en el que enunciaron por primera vez la Teoría
+de Juegos [#juegos]_.
 
 .. [#juegos] "Theory of Games and Economic Behaviour" Princeton University
              Press 1944 (en biblioteca de la UAM se puede encontrar una
