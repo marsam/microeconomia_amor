@@ -10,11 +10,10 @@ Microeconomía del Amor
 
 Reedición del libro_ de `David de Ugarte`_, llevada a cabo por `Mario Rodas`_.
 
-.. raw:: html
+.. only:: html
 
-    Puedes ver una prematura versión en pdf aqui: MicroeconomiaDelAmor.pdf_
+    Puedes ver una prematura versión en pdf aqui: :download:`MicroeconomiaDelAmor.pdf <_build/latex/MicroeconomiaDelAmor.pdf>`
 
-    .. _MicroeconomiaDelAmor.pdf: MicroeconomiaDelAmor.pdf
 
 .. _libro: http://deugarte.com/gomi/documentos/Microeconomia_del_Amor.pdf
 .. _Mario Rodas: http://marsam.github.com/
