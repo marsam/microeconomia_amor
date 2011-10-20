@@ -27,7 +27,20 @@ Teoría de Juegos [#juegos]_.
              Press 1944 (en biblioteca de la UAM se puede encontrar una
              tercera edición de 1953)
 
-.. TODO: Agregar foto Von Newman, Morgenstern
+.. figure:: images/neumann.jpg
+   :align: center
+   :width: 300px
+
+   John von Neumann / `Public Domain`_
+
+.. _Public Domain: http://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif
+
+
+.. figure:: images/morgenstern.jpg
+   :align: center
+   :width: 300px
+
+   Oskar Morgenstern / Public Domain
 
 En este modelo los individuos asignan probabilidades a las posibles respuestas
 que pueden encontrar en la persona a la que se presentan. Para simplificar
@@ -47,15 +60,19 @@ si no, perderá otros cien. La utilidad esperada de autopresentarse sería:
 
 .. note::
 
-    Utilidad Esperada = Dolor generado por perder 100 puntos de autoestima x
-    (2/3) + (Satisfacción generada por ganar 100 puntos de autoestima) x (1/3)
+    .. math::
+
+        \text{Utilidad Esperada} = \text{(Dolor generado por perder 100 puntos
+        de autoestima)} \times \frac{2}{3}  + \text{(Satisfacción generada por
+        ganar 100 puntos de autoestima)} \times \frac{1}{3}
 
 Por otro lado podemos calcular el "valor esperado" que no es otra cosa que la esperanza
 matemática de presentarse en términos de autoestima:
 
-    VE = -100 x 1/3 + 100 x 1/3 = -33.33333
+.. math::
 
-.. TODO: hacer grafico 1
+    VE = -100 \times \frac{1}{3} + 100 \times \frac{1}{3} = -33.33333
+
 
 .. note::
 
@@ -64,8 +81,9 @@ matemática de presentarse en términos de autoestima:
     perder 100 puntos) En el de ordenadas como queda su índice general de
     satisfacción (Utilidad) tras cada uno de los posibles sucesos
 
+    .. image:: images/valor_espe.png
+       :align: center
 
-.. TODO: hacer grafico 2
 
 .. note::
 
@@ -73,7 +91,9 @@ matemática de presentarse en términos de autoestima:
     esperado (es decir -33) con lo que obtendremos la Autoestima esperada de
     presentarse.
 
-.. TODO: hacer grafico 3
+    .. image:: images/valor_espe2.png
+       :align: center
+
 
 .. note::
 
@@ -83,6 +103,8 @@ matemática de presentarse en términos de autoestima:
     autoestima que el jugador estaría dispuesto a perder con tal de no tener
     que autopresentarse.
 
+    .. image:: images/valor_espe3.png
+       :align: center
 
 ¿Qué quiere decir esto? Si la mayor parte de la Humanidad es como parece
 aversa al riesgo, es decir tímida en mayor o menor medida, la curva de
