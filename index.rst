@@ -6,8 +6,12 @@
 Microeconomía del Amor
 ======================
 
-Libro de `David de Ugarte`_.
+    O como los modelos económicos hablan de lo que mis amigos se preguntan los lunes.
 
+Reedición del libro_ de `David de Ugarte`_, llevada a cabo por `Mario Rodas`_.
+
+.. _libro: http://deugarte.com/gomi/documentos/Microeconomia_del_Amor.pdf
+.. _Mario Rodas: http://marsam.github.com/
 .. _David de Ugarte: http://deugarte.com/
 
 .. toctree::
@@ -21,10 +25,4 @@ Libro de `David de Ugarte`_.
    V.rst
    VI.rst
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
