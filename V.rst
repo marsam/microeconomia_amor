@@ -13,14 +13,24 @@ que haría famoso al hoy premio Nobel, John Nash (a la derecha el cartel de la
 película que le ha dedicado Hollywood y abajo fotografía de 1994 dando clase
 en la Universidad de Uppsala).
 
-.. TODO: Agregar imagen: Nash movie
+.. figure:: images/abeautifulmind.jpg
+   :align: center
+   :width: 300px
+
+   A Beautiful Mind / Copyright ©2001 Universal Studios and DreamWorks LLC.
 
 El concepto de base es muy sencillo: la vida en pareja es un juego iterativo,
 es decir un conjunto de decisiones cuyos resultados afectan a ambos jugadores
 en función de las opciones que escoja cada uno... dos jugadores que seguirán
 jugando una partida tras otra durante un tiempo de entrada indefinido.
 
-.. TODO: Agregar imagen: Nash
+.. figure:: images/nash.jpg
+   :align: center
+   :width: 300px
+
+   John Forbes Nash, Jr. / Creative Commons `BY SA`_
+
+.. _BY SA: http://creativecommons.org/licenses/by-sa/3.0/deed.en
 
 Lo cual nos introduce un nuevo concepto: estrategia. Porque no jugaríamos
 igual si sólo fueramos a jugar una vez que si pensaramos seguir jugando toda
@@ -65,7 +75,11 @@ El equilibrio dominante será por tanto el que se produce cuando ninguno de los
 dos se ducha (y salen perdiendo ambos) y esto es lo que la teoría de juegos
 nos dice que harán si sólo juegan una vez.
 
-.. TODO: Agregar foto: Axelrod
+.. figure:: images/axelrod.jpg
+   :align: center
+   :width: 300px
+
+   Robert M. Axelrod
 
 ¿Pero y si juegan indefinidamente? Aquí es donde caben las estrategias. Robert
 Axelrod [#ax]_ (en la fotografía) experimentó juegos iterativos de este tipo
