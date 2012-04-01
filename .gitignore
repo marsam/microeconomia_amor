@@ -1,2 +1,4 @@
 _build/*
 !.gitignore
+*.pyc
+*.swp
