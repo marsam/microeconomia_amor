@@ -568,3 +568,14 @@ a:hover tt {
 .revsys-inline {
     display: none!important;
 }
+
+.toctree-wrapper ul {
+    list-style-type: none;
+}
+
+.info-pdf {
+    background: none repeat scroll 0 0 rgb(238, 238, 238);
+    border-radius: 3px 3px 3px 3px;
+    margin: 4px 0;
+    padding: 8px;
+}
